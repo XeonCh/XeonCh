@@ -1,0 +1,9 @@
+name: BroadCastUI
+main: XeonCh\BroadCast\Main
+author: Xeon CH
+api: [3.12.0]
+version: 1.0
+
+commands:
+  bc:
+    description: "Send a broadCast message with ui!"
